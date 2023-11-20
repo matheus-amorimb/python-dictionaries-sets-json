@@ -4,10 +4,11 @@
 
 Basic structure of dictionary elements: {key : value}
 
-value -> any Python object
-key -> any hashable object
+**value**: any Python object
 
-| Hashable Objects                                             |
+**key**: any hashable object
+
+| Hashable Objects                                 |            |
 | ----------------------------------------------- | ------------ |
 | set, dictionary                                 | not hashable |
 | list                                            | not hashable |
